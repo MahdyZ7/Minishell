@@ -1,5 +1,7 @@
 # Minishell_Team
 
+[![Run on Repl.it](https://replit.com/badge/github/MahdyZ7/Minishell)](https://replit.com/new/github/MahdyZ7/Minishell)
+
 ## Mandatory part
 ### Your shell should:
 - Display a prompt when waiting for a new command.
