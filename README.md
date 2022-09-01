@@ -1,6 +1,6 @@
 # Minishell_Team
 
-[![Run on Repl.it](https://replit.com/badge/github/MahdyZ7/Minishell)](https://replit.com/new/github/MahdyZ7/Minishell)
+[![Run on Repl.it](https://replit.com/badge/github/MahdyZ7/Minishell)](https://replit.com/@MahdyZ7/Minishell)
 
 ## Mandatory part
 ### Your shell should:
