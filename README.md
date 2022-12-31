@@ -1,9 +1,9 @@
-# Minishell_Team
+# Minishell description:
+Making shell like bash shell fully in C language, with 7 executables as builtins, the rest are being executed form path.
 
 [![Run on Repl.it](https://replit.com/badge/github/MahdyZ7/Minishell)](https://replit.com/@MahdyZ7/Minishell)
 
-## Mandatory part
-### Your shell should:
+### Specifications:
 - Display a prompt when waiting for a new command.
 - Have a working history.
 - Search and launch the right executable (based on the PATH variable or using a relative or an absolute path).
